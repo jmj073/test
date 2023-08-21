@@ -1,0 +1,3 @@
+[submodule "sup"]
+	path = sup
+	url = git@github.com:jmj073/sup.git
